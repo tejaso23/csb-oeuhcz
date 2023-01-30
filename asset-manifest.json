@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tejaso23.github.io/csb-oeuhcz/static/css/main.41762ffd.chunk.css",
+    "main.js": "https://tejaso23.github.io/csb-oeuhcz/static/js/main.8f0d1f44.chunk.js",
+    "main.js.map": "https://tejaso23.github.io/csb-oeuhcz/static/js/main.8f0d1f44.chunk.js.map",
+    "runtime-main.js": "https://tejaso23.github.io/csb-oeuhcz/static/js/runtime-main.20ac49b7.js",
+    "runtime-main.js.map": "https://tejaso23.github.io/csb-oeuhcz/static/js/runtime-main.20ac49b7.js.map",
+    "static/js/2.ca6d4c50.chunk.js": "https://tejaso23.github.io/csb-oeuhcz/static/js/2.ca6d4c50.chunk.js",
+    "static/js/2.ca6d4c50.chunk.js.map": "https://tejaso23.github.io/csb-oeuhcz/static/js/2.ca6d4c50.chunk.js.map",
+    "index.html": "https://tejaso23.github.io/csb-oeuhcz/index.html",
+    "static/css/main.41762ffd.chunk.css.map": "https://tejaso23.github.io/csb-oeuhcz/static/css/main.41762ffd.chunk.css.map",
+    "static/js/2.ca6d4c50.chunk.js.LICENSE.txt": "https://tejaso23.github.io/csb-oeuhcz/static/js/2.ca6d4c50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ac49b7.js",
+    "static/js/2.ca6d4c50.chunk.js",
+    "static/css/main.41762ffd.chunk.css",
+    "static/js/main.8f0d1f44.chunk.js"
+  ]
+}
